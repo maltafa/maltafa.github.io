@@ -18,7 +18,7 @@ body {
   background: #f0f0f0; 
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #313131;
-  font-size: 62.5%; 
+  font-size: 70%; 
   line-height: 1; 
 }
 
@@ -67,37 +67,45 @@ img { border: 0; max-width: 100%; }
 
 #topbar {
   background: #ce0b10;
-  padding: 10px 0 10px 0;
   text-align: center;
-  height: 36px;
+  height: 56px;
   overflow: hidden;
-  -webkit-transition: height 0.5s linear;
-  -moz-transition: height 0.5s linear;
-  transition: height 0.5s linear;
+ 
+	padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
 }
 #topbar a {
   color: #fff;
   font-size:1.3em;
-  line-height: 1.25em;
   text-decoration: none;
   opacity: 0.5;
   font-weight: bold;
+	  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:middle;
 }
 #topbar a:hover {
   opacity: 1;
 }
 
 #stickynav {
-  display: block;
-  height: 35px;
+  display: inline-block;
+  height: 55px;
+	vertical-align: top;
   width: 100%;
   z-index: 9999;
+	
 }
 
 #stickynav #nav { position: fixed; z-index: 9999; }
-#stickynav #nav li { display: inline; }
+#stickynav #nav li { display: inline-block; }
 #stickynav #nav li a {
-  display: block;
+  display: inline-block;
   float: left;
   margin-right: 8px;
   font-size: 1.2em;
@@ -128,7 +136,7 @@ h1 {
   font-size: 2.5em;
   line-height: 1.5em;
   letter-spacing: -0.05em;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding: .1em 0;
   color: #444;
 	position: relative;
@@ -163,37 +171,37 @@ h1 > span {
 
 h2 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1.7em;
+  font-size: 1.9em;
   line-height: 1.3em;
   letter-spacing: normal;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding: .1em 0;
   color: #444;
 	position: relative;
 	overflow: hidden;
 	white-space: nowrap;
-	text-align: center;
+	text-align: left;
 }
 
 h3 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.5em;
-  line-height: 1.1em;
+
   letter-spacing: normal;
-  margin-bottom: 4px;
+
   padding: .1em 0;
   color: #444;
 	position: relative;
 	overflow: hidden;
 	white-space: nowrap;
-	text-align: center;
+	text-align: left;
 }
 
 p {
   display: block;
   font-size: 1.35em;
   line-height: 1.6em;
-  margin-bottom: 22px;
+  
 }
 
 a { color: #ce0b10; text-decoration: none; }
@@ -233,7 +241,7 @@ form .basictxt {
 /** page structure **/
 #w {
   display: block;
-  width: 750px;
+  width: 850px;
   margin: 0 auto;
   padding-top: 30px;
 }
@@ -255,3 +263,71 @@ form .basictxt {
  
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+
+
+.logo {
+  float: left;
+}
+/* ~~ Top Navigation Bar ~~ */
+
+#navigation-container {
+  margin: 0 auto;
+  height: 70px;
+  display: block;
+  width: 850px;
+  margin: 0 auto;
+	
+}
+
+
+.navigation-bar {
+  background-color: #ce0b10;
+  height: 70px;
+  width: 100%;
+  text-align:left;
+	
+}
+.navigation-bar img{
+float:right;
+	padding-top:10px;
+}
+.navigation-bar ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  display:inline-block;
+  vertical-align:top;
+}
+
+.navigation-bar li {
+  list-style-type: none;
+  padding: 0px;
+  height: 24px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline;
+}
+
+.navigation-bar li a {
+  color: white;
+  font-size: 19px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  line-height: 70px;
+  padding: 5px 15px;
+  opacity: 1;
+}
+
+#menu {
+  float: right;
+}
+
+hr { 
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
