@@ -374,7 +374,7 @@ height:60px;
 
 .navigation-bar li a {
   color: white;
-  font-size: 14px;
+  font-size: 21px;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   text-decoration: none;
   line-height:normal;
@@ -451,7 +451,7 @@ hr {
 	 
 	.navigation-bar li a {
   color: white;
-  font-size: 19px;
+  font-size: 25px;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   text-decoration: none;
   line-height:normal;
@@ -478,8 +478,8 @@ font-weight: 500;
 
 ul, li, a {
 	display: block;
-  	font-size: 15px;
-  	line-height:18px;
+  	font-size: 18px;
+  	line-height:20px;
 	margin-left:5px;
 	font-weight: 500;
 	display:;
