@@ -430,7 +430,7 @@ hr {
 }
 
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1081px) {
   #w {
   display: block;
   width: 95%;
@@ -448,7 +448,22 @@ hr {
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
 }
-	  
+	 
+	.navigation-bar li a {
+  color: white;
+  font-size: 19px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  line-height:normal;
+    display: inline-block;
+    padding:20px;
+	line-height: 20px;
+	border-style:solid;
+	border-color:white;
+    position:relative;
+	float:right;
+}
+	
 ol, ul,{
 	display: block;
 	color:blue;	
