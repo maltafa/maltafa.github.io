@@ -464,13 +464,12 @@ hr {
 	float:right;
 }
 	
-ol, ul,{
+ol, ul, h4{
 	display: block;
-	color:blue;	
+		font-size: 24px;
   line-height: normal;
   margin-bottom: 19px;
 margin-left: 3px;
-	font-size: 11px;
 font-weight: 500;
 	
 }
@@ -478,8 +477,8 @@ font-weight: 500;
 
 ul, li, a {
 	display: block;
-  	font-size: 18px;
-  	line-height:20px;
+  	font-size: 20px;
+  	line-height:22px;
 	margin-left:5px;
 	font-weight: 500;
 	display:;
@@ -491,7 +490,7 @@ word-wrap: break-word;
 	
 	.navigation-bar img{
 	float:left;
-	width:180px;
+	width:190px;
 		height:auto;
 	padding-top:10px;
 }
