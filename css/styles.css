@@ -430,7 +430,7 @@ hr {
 }
 
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 1080px) {
   #w {
   display: block;
   width: 95%;
