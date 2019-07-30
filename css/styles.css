@@ -85,7 +85,6 @@ img { border: 0; max-width: 100%; }
   text-align: center;
   height: 56px;
   overflow: hidden;
- 
 	padding: 0px;
   margin: 0px;
   text-align: center;
@@ -496,10 +495,22 @@ hr {
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
 }
-	 
+	
+#topbar {
+  background: #ce0b10;
+  text-align: center;
+  height: 70px;
+  overflow: hidden;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}	
+	
 	.navigation-bar li a {
   color: white;
-  font-size: 25px;
+  font-size: 22px;
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   text-decoration: none;
   line-height:normal;
@@ -511,6 +522,11 @@ hr {
     position:relative;
 	float:right;
 }
+	
+.navigation-bar img {
+    float: left;
+    width: 40%;
+	}
 	
 ol, ul, h4{
 	display: block;
