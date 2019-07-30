@@ -18,7 +18,6 @@ body {
   background: #f0f0f0; 
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #313131;
-  font-size: 80%; 
   line-height:normal; 
 }
 
@@ -170,7 +169,8 @@ h1 {
 
 h4 { 
  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
+font-weight: 600;
   line-height: 1.5em;
   letter-spacing: -0.03em;
   margin-bottom: 5px;
@@ -253,7 +253,7 @@ ol, ul {
   font-size: 1.20em;
   line-height: 1.4em;
   margin-bottom: 19px;
-margin-left: 20px;
+margin-left: 10px;
 	
 }
 
@@ -261,9 +261,8 @@ margin-left: 20px;
 ul, li, a {
 	display: block;
   font-size: 1em;
-  line-height: 0.8em;
+  line-height: 1.15em;
   margin-bottom: 18px;
-margin-left: 20px;
 	
 }
 
@@ -302,6 +301,7 @@ form .basictxt {
   width: 100%;
   background: #fff;
   padding: 25px 20px;
+padding-left:10px;
   padding-bottom: 35px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
@@ -430,6 +430,54 @@ hr {
 }
 
 
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+
+#myUL li h4 a {
+  border: 1px solid #ddd;
+  margin-top: -1px;
+  background-color: #ce0b10;
+  padding: 8px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  display: block
+}
+
+
 @media only screen and (max-width: 1081px) {
   #w {
   display: block;
@@ -481,11 +529,12 @@ ul, li, a {
   	line-height:22px;
 	margin-left:5px;
 	font-weight: 500;
-	display:;
 	  }
 	
 	h3 {
 word-wrap: break-word;
+		overflow: hidden;
+		white-space: inherit;
 	}
 	
 	.navigation-bar img{
@@ -494,6 +543,12 @@ word-wrap: break-word;
 		height:auto;
 	padding-top:10px;
 }
+	
+	
+	h1, h2, h4{
+	overflow: hidden;
+    white-space: inherit;
+=	}
 	
 	#myBtn {
   display: none;
