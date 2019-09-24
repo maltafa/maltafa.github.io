@@ -244,7 +244,7 @@ h3 {
   color: #444;
 	position: relative;
 	overflow: hidden;
-	white-space: nowrap;
+	white-space: normal;
 	text-align: left;
 }
 
