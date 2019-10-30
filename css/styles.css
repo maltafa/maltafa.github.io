@@ -637,6 +637,10 @@ button .homepagebtn {
 	text-decoration: none;
 }
 
+a:hover {
+	text-decoration: none;
+}
+
 #box:hover {
 	background-color:#ce0b10;
   color: white;
