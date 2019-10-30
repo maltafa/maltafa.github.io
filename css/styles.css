@@ -16,13 +16,14 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 html { overflow-y: scroll; }
 body { 
  background-image: url("../img/bg.jpg");
-    background-position:bottom;
+    background-position:right;
   background-repeat: no-repeat;
   background-size:cover;
   position: relative;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #313131;
   line-height:normal; 
+
 }
   #myBtn {
   display:none;
@@ -311,22 +312,22 @@ form .basictxt {
   width: 850px;
   margin: 0 auto;
   padding-top: 30px;
+padding:30px;
 
 }
 
 #content {
   display: block;
 	border-radius:20px;
-	margin-bottom:30%;
-	margin-top:90px;
+	margin-bottom:40%;
+	margin-top:100px;
   width: 100%;
-  background: #fff;
-  padding: 25px 20px;
+ 
+  padding: 15px 10px;
 padding-left:20px;
-  padding-bottom: 35px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+ /* -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;*/
 }
 
 #content2 {
@@ -527,12 +528,12 @@ hr {
   #content {
   display: block;
   width: 100%;
-  background: #fff;
+  background:;
   padding: 10px 8px;
   padding-bottom: 35px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+ /* -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;*/
 }
 	
 #topbar {
