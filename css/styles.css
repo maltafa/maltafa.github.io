@@ -619,19 +619,22 @@ button .homepagebtn {
 
 #box {
     background-color: #ce0b10;
-    padding: 44px;
+    padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left:15px;
+	padding-right:15px;
     text-align: center;
     font-size: x-large;
-    border-radius: 7px;
+    border-radius: 2px;
     color: white;
     font-weight: 900;
     margin: 10px;
-	min-height: 150px;
+	min-height: 200px;
 }
 
 
 #box i {
-	font-size:50px;
+	font-size:70px;
 	padding:5px;
 	display:block;
 }
