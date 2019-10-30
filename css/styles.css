@@ -634,6 +634,13 @@ button .homepagebtn {
     font-weight: 900;
     margin: 15px;
 	min-height: 200px;
+	text-decoration: none;
+}
+
+#box:hover {
+	background-color:#ce0b10;
+  color: white;
+	text-decoration: none;
 }
 
 
@@ -642,6 +649,18 @@ button .homepagebtn {
 	padding:5px;
 	display:block;
 	color:#ce0b10;
+	text-decoration: none;
+	
+	
+}
+
+#box:hover  i{
+	font-size:70px;
+	padding:5px;
+	display:block;
+	color:white;
+	text-decoration: none;
+	
 	
 }
 
