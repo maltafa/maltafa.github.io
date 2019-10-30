@@ -611,24 +611,28 @@ button .homepagebtn {
   border: none;
   outline: none;
   background-color: #ce0b10;
-  color: white;
+  color: #ce0b10;
   cursor: pointer;
   padding: 25px;
 	
 }
 
 #box {
-    background-color: #ce0b10;
+    background-color:white;
+	border-style: solid;
+	border-color: darkgrey;
+	border-width:thin;
     padding-top: 50px;
 	padding-bottom: 50px;
 	padding-left:15px;
 	padding-right:15px;
     text-align: center;
     font-size: x-large;
-    border-radius: 2px;
-    color: white;
+    border-radius: 10px;
+    color:grey;
+	font-variant-caps: all-small-caps;
     font-weight: 900;
-    margin: 10px;
+    margin: 15px;
 	min-height: 200px;
 }
 
@@ -637,6 +641,8 @@ button .homepagebtn {
 	font-size:70px;
 	padding:5px;
 	display:block;
+	color:#ce0b10;
+	
 }
 
 #twocol {
