@@ -15,14 +15,19 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 html { overflow-y: scroll; }
 body { 
- background-image: url("../img/bg.jpg");
-    background-position:right;
-  background-repeat: no-repeat;
-  background-size:cover;
-  position: relative;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #313131;
   line-height:normal; 
+
+}
+
+#newindex { 
+background-image: url("../img/bg.jpg");
+background-repeat: no-repeat;
+background-position: right; position: relative;
+ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ color: #313131;
+ line-height:normal; 
 
 }
   #myBtn {
@@ -280,7 +285,7 @@ ul, li, a {
 	display: block;
   font-size: 1em;
   line-height: 1.15em;
-  margin-bottom: 18px;
+  margin-bottom: 12px;
 	
 }
 
@@ -318,12 +323,12 @@ padding:0px;
 
 #content {
   display: block;
-	border-radius:20px;
-	margin-bottom:40%;
-	margin-top:100px;
+  border-radius:20px;
+  margin-bottom:20%;
+  margin-top:50px;
   width: 100%;
  
-  padding: 15px 10px;
+  padding: 10px 10px;
 padding-left:10px;
  /* -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
@@ -340,9 +345,9 @@ padding-left:10px;
 	margin: auto;
 	 width: 100%;
   background: #fff;
-  padding: 25px 20px;
-padding-left:20px;
-  padding-bottom: 35px;
+  padding: 15px 15px;
+padding-left:15px;
+  padding-bottom: 20px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
@@ -520,7 +525,7 @@ hr {
 @media only screen and (max-width: 1081px) {
   #w {
   display: block;
-  width: 95%;
+  width: 100%;
   margin: 0 auto;
 
 	}
@@ -649,8 +654,8 @@ button .homepagebtn {
 	border-style: solid;
 	border-color: darkgrey;
 	border-width:thin;
-    padding-top: 50px;
-	padding-bottom: 50px;
+    padding-top: 60px;
+	padding-bottom: 30px;
 	padding-left:15px;
 	padding-right:15px;
     text-align: center;
@@ -659,8 +664,8 @@ button .homepagebtn {
     color:grey;
 	font-variant-caps: all-small-caps;
     font-weight: 900;
-    margin: 15px;
-	min-height: 200px;
+    margin: 5px;
+	min-height: 250px;
 	text-decoration: none;
 }
 
@@ -696,12 +701,12 @@ a:hover {
 }
 
 #twocol {
-	width:45%;
+	width:50%;
 	display:inline;
 } 
 
 .twocol {
-	width:45%;
+	width:50%;
 	display:inline;
 } 
 

@@ -29,30 +29,14 @@
 
 	  gtag('config', 'UA-122665638-1');
 	</script>
-	<script>
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
 
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("myBtn").style.display = "block";
-  } else {
-    document.getElementById("myBtn").style.display = "none";
-  }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0;
-}
-</script>
 </head>
 
-<body>
+<body id="newindex">
+
 <div class="navigation-bar">
   <div id="navigation-container"> <img src="img/MFA-logo.png">
-    </li>
+    
   </div>
 </div>
 <div id="w">
@@ -62,14 +46,16 @@ function topFunction() {
 
 <div class="row">
   <div class="column" style="">	
-	  <a href="index.html"> <div id="box"><i class="fab fa-youtube"></i>COMET Videos</div></a>
+	  <a href="index.html"> <div id="box"><i class="fab fa-youtube"></i>COMET Tutorials</div></a>
 	  <a href="resources.html"> <div id="box"><i class="fas fa-file-contract"></i>Incentive Schemes</div></a>
 	</div>
 	
 <div class="row">
   <div class="column" style="">	
 	  <a href="resources.html"><div id="box"> <i class="fas fa-futbol"></i>Matchday Operations</div></a>
-	<a href="resources.html"><div id="box"><i class="fas fa-globe-americas"></i>FIFA Minor TMS</div></a>
+	<a href="resources.html">
+		<div id="box"><i class="fas fa-globe-americas"></i>FIFA Minor TMS
+		</div></a>
 	</div>
 
 
