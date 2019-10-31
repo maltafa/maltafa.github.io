@@ -325,7 +325,7 @@ padding:0px;
   display: block;
   border-radius:20px;
   margin-bottom:20%;
-  margin-top:50px;
+  margin-top:px;
   width: 100%;
  
   padding: 10px 10px;
@@ -664,7 +664,7 @@ button .homepagebtn {
     color:grey;
 	font-variant-caps: all-small-caps;
     font-weight: 900;
-    margin: 5px;
+    margin: 10px;
 	min-height: 250px;
 	text-decoration: none;
 }
