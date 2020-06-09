@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html">
-<title>Malta FA - Tutorials & Resources</title>
+<title>Malta FA - FIFA Minor TMS</title>
 <meta name="author" content="George Zammit">
-<link rel="shortcut icon" href="https://info.mfa.com.mt">
+<link rel="shortcut icon" href="https://comet.mfa.com.mt">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="https://info.mfa.com.mt">
+<link rel="icon" href="https://comet.mfa.com.mt">
 <link href="/fontawesome/css/all.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
@@ -29,37 +29,93 @@
 
 	  gtag('config', 'UA-122665638-1');
 	</script>
+	<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
 
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
 </head>
 
-<body id="newindex">
-
+<body>
+<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-arrow-up"></i></button>
 <div class="navigation-bar">
   <div id="navigation-container"> <img src="img/MFA-logo.png">
-    
+    <li><a href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
   </div>
 </div>
 <div id="w">
 
 <div id="content">
 
+<h1>Resources</h1>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.." title="Search">
 
-<div class="row">
-  <div class="column" style="">	
-	  <a href="comet.html"> <div id="box"><i class="fab fa-youtube"></i>COMET Tutorials</div></a>
-	  <a href="Incentives.html"> <div id="box"><i class="fas fa-file-contract"></i>Incentive Schemes</div></a>
-	  </div>
+<ul id="myUL">
+    <ol>
+		<li style="margin-bottom:0px;">
+		  <h4><a style="margin-bottom:5px;">Player Status</a></h4>
+		</li>
+        <li><a href="resources/MFA RSTP Handbook 2020-21.pdf" download="download"><em class="fa fa-download" aria-hidden="true"></em> Regulations on the Statusand Transfer of Players (July 2020)</a></li>
+      
+        </ul>
+        
+
+    </ol>
+</ul>
 	
-<div class="row">
-  <div class="column" style="">	
-	  <a href="matchday.html"><div id="box"> <i class="fas fa-futbol"></i>Matchday Operations</div></a>
-	<a href="FIFA-TMS.html">
-		<div id="box"><i class="fas fa-globe-americas"></i>FIFA Minor TMS
-		</div></a>
-	</div>
+	<ul id="myUL">
+    <ol>
+		<li style="margin-bottom:0px;">
+		  <h4><a style="margin-bottom:5px;">Minor TMS</a></h4>
+	  </li>
+        <ul>
+          <li><a href="resources/4.0 Circular 160 - Minor ITC.pdf" download><i class="fa fa-download" aria-hidden="true"></i> Circular 160 – Minor ITC </a></li>
+          <li><a href="resources/4.1 Minor ITC Application and Declaration Form.pdf" download><i class="fa fa-download" aria-hidden="true"> </i> Minor ITC Application and Declaration Form</a></li>
+            <li><a href="resources/4.2 Frequently Asked Questions (FAQs).pdf" download><i class="fa fa-download" aria-hidden="true"> </i> Frequently Asked Questions (FAQs)</a></li>
+            <li><a href="resources/4.3 Explanatory Notes.pdf" download><i class="fa fa-download" aria-hidden="true"> </i> Explanatory Notes</a></li>
+           
+        </ul>
+      
+</ul>
+        
 
-
+    </ol>
 	
+	<style>.embed-container { position: relative; padding-bottom:56.25%; height:0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}</style><div class='embed-container' data-page-width='500' data-page-height='281' id='ypembedcontainer' ><iframe   src="https://www.yumpu.com/en/embed/view/VEPBAIQLk5yln0tW" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe></div><script src='https://players.yumpu.com/modules/embed/yp_r_iframe.js' ></script>
+</ul>
+
+
+
+	<script>
+function myFunction() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+	</script>
 </body>
-	
 </html>
