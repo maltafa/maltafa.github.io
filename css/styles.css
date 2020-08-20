@@ -312,9 +312,18 @@ form .basictxt {
 }
 
 /** page structure **/
-#w {
+#w2 {
   display: block;
   width: 95%;
+  margin: 0 auto;
+  padding-top: 30px;
+padding:0px;
+
+}
+
+#w {
+  display: block;
+  width: 1066px;
   margin: 0 auto;
   padding-top: 30px;
 padding:0px;
