@@ -285,7 +285,7 @@ ul, li, a {
 	display: block;
   font-size: 1em;
   line-height: 1.15em;
-  margin-bottom: 12px;
+ 
 	
 }
 
@@ -314,7 +314,7 @@ form .basictxt {
 /** page structure **/
 #w {
   display: block;
-  width: 850px;
+  width: 95%;
   margin: 0 auto;
   padding-top: 30px;
 padding:0px;
@@ -712,7 +712,19 @@ a:hover {
 
 .column {
   float: left;
+  width: 33%;
+}
+@media only screen and (max-width: 800px) {
+.column {
+  float: left;
   width: 50%;
+	}}
+
+@media only screen and (max-width: 800px) { p {
+    display: block;
+    font-size: 1.35em;
+    line-height: 1em;
+}
 }
 
 /* Clear floats after the columns */
