@@ -675,6 +675,7 @@ button .homepagebtn {
     margin: 10px;
 	min-height: 250px;
 	text-decoration: none;
+	overflow-wrap: break-word;
 }
 
 a:hover {
