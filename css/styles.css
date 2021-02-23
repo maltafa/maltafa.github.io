@@ -695,7 +695,7 @@ a:hover {
 	font-weight: 900;
 	font-variant-caps: all-small-caps;
 	overflow-wrap: break-word;
-	font-size:large;
+	font-size:;
 }
 
 
@@ -742,7 +742,14 @@ a:hover {
 
 @media only screen and (max-width: 800px) { p {
     display: block;
-    font-size: 1.25em;
+    font-size: 1.20em;
+    line-height: 1em;
+}
+}
+
+@media only screen and (max-width: 800px) { #box p {
+    display: block;
+    font-size: 1.20em;
     line-height: 1em;
 }
 }
