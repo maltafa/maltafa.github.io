@@ -743,9 +743,9 @@ a:hover {
 @media only screen and (max-width: 800px) {
 	#box:hover h1 {
     font-family:'Montserrat', sans-serif;
-	line-height:0.6em;
+	line-height:0.5em;
 	font-weight: 800;
-	font-size:1.1em;
+	font-size:1.0em;
 	font-variant-caps: all-small-caps;
 	overflow-wrap: break-word;
 	color:white;
@@ -756,9 +756,9 @@ a:hover {
 @media only screen and (max-width: 800px) {
 	#box h1 {
     font-family:'Montserrat', sans-serif;
-	line-height:0.6em;
+	line-height:0.5em;
 	font-weight: 800;
-	font-size:1.1em;
+	font-size:1.0em;
 	font-variant-caps: all-small-caps;
 	overflow-wrap: break-word;
 
