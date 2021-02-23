@@ -430,8 +430,25 @@ height:60px;
 }
 
 .navigation-bar li a {
+  color:white;
+  font-size: 18px;
+  font-family:'Montserrat', sans-serif;
+  text-decoration: none;
+  line-height:normal;
+    display: inline-block;
+    padding:20px;
+	line-height: 20px;
+	border-style:solid;
+	border-color:white;
+    position:relative;
+	float:right;
+	font-weight:600;
+}
+
+.navigation-bar:hover li a {
   color: white;
-  font-size: 21px;
+	font-weight:600;
+  font-size: 18px;
   font-family:'Montserrat', sans-serif;
   text-decoration: none;
   line-height:normal;
@@ -565,20 +582,7 @@ hr {
   vertical-align:top;
 }	
 	
-	.navigation-bar li a {
-  color: white;
-  font-size: 22px;
- 	font-family:'Montserrat', sans-serif;
-  text-decoration: none;
-  line-height:normal;
-    display: inline-block;
-    padding:20px;
-	line-height: 20px;
-	border-style:solid;
-	border-color:white;
-    position:relative;
-	float:right;
-}
+
 	
 .navigation-bar img {
     float: left;
