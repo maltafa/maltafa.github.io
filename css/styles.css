@@ -15,7 +15,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 html { overflow-y: scroll; }
 body { 
-  font-family: 'Helvetica Neue', Montserrat, Helvetica, Arial, sans-serif;
+  
+	font-family:'Montserrat', sans-serif;
+	font-weight:500;
+	font-size:14px;
   color: #313131;
   line-height:normal; 
 
@@ -25,7 +28,7 @@ body {
 background-image: url("../img/bg.jpg");
 background-repeat: no-repeat;
 background-position: right; position: relative;
- font-family: 'Helvetica Neue', Montserrat, Helvetica, Arial, sans-serif;
+font-family:'Montserrat', sans-serif;
  color: #313131;
  line-height:normal; 
 
@@ -177,7 +180,8 @@ img { border: 0; max-width: 100%; }
 
 /** typography **/
 h1 {
-  font-family: 'Helvetica Neue',Montserrat, Helvetica, Arial, sans-serif;
+  font-family:'Montserrat', sans-serif;
+  text-transform:uppercase;
   font-size: 2.5em;
   line-height: 1.5em;
   letter-spacing: -0.05em;
@@ -191,7 +195,7 @@ h1 {
 }
 
 h4 { 
- font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-family:'Montserrat', sans-serif;
   font-size: 18px;
 font-weight: 600;
   line-height: 1.5em;
@@ -231,7 +235,7 @@ h1 > span {
 
 
 h2 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family:'Montserrat', sans-serif;
   font-size: 1.9em;
   line-height: 1.3em;
   letter-spacing: normal;
@@ -245,7 +249,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family:'Montserrat', sans-serif;
   font-size: 1.5em;
 
   letter-spacing: normal;
@@ -428,7 +432,7 @@ height:60px;
 .navigation-bar li a {
   color: white;
   font-size: 21px;
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-family:'Montserrat', sans-serif;
   text-decoration: none;
   line-height:normal;
     display: inline-block;
@@ -509,7 +513,7 @@ hr {
   background-color: #f6f6f6;
   padding: 12px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 15px;
   color: black;
   display: block
 }
@@ -519,14 +523,15 @@ hr {
 }
 
 #myUL li h4 a {
+	font-family:'Montserrat', sans-serif;
   border: 1px solid #ddd;
   margin-top: -1px;
   background-color: #ce0b10;
   padding: 8px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 16px;
   color: white;
-  display: block
+  display: block;
 }
 
 
@@ -563,7 +568,7 @@ hr {
 	.navigation-bar li a {
   color: white;
   font-size: 22px;
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+ 	font-family:'Montserrat', sans-serif;
   text-decoration: none;
   line-height:normal;
     display: inline-block;
