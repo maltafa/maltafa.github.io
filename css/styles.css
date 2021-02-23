@@ -672,8 +672,8 @@ button .homepagebtn {
     border-radius: 10px;
     color:grey;
 	font-variant-caps: all-small-caps;
-    
-    margin: 10px;
+    box-shadow: 1px 1px 30px 0.2px #c3c2c3;
+    margin: 25px;
 	min-height: 250px;
 	text-decoration: none;
 	overflow-wrap: break-word;
@@ -695,7 +695,75 @@ a:hover {
 	font-weight: 900;
 	font-variant-caps: all-small-caps;
 	overflow-wrap: break-word;
-	font-size:;
+	
+	
+
+}
+
+#box h1 {
+    font-family:'Montserrat', sans-serif;
+	line-height:0.7em;
+	font-weight: 800;
+	font-size:1.6em;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+}
+
+#box:hover h1 {
+    font-family:'Montserrat', sans-serif;
+	line-height:0.7em;
+	font-weight: 800;
+	font-size:1.6em;
+	letter-spacing: 0px;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+	color:white;
+}
+
+#box h1 {
+    font-family:'Montserrat', sans-serif;
+	line-height:0.7em;
+	letter-spacing: 0px;
+	font-weight: 800;
+	font-size:1.6em;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+}
+
+#box:hover h1 {
+    font-family:'Montserrat', sans-serif;
+	line-height:0.7em;
+	font-weight: 800;
+	font-size:1.6em;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+	color:white;
+}
+
+@media only screen and (max-width: 800px) {
+	#box:hover h1 {
+    font-family:'Montserrat', sans-serif;
+	line-height:0.6em;
+	font-weight: 800;
+	font-size:1.1em;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+	color:white;
+	
+}
+}
+
+@media only screen and (max-width: 800px) {
+	#box h1 {
+    font-family:'Montserrat', sans-serif;
+	line-height:0.6em;
+	font-weight: 800;
+	font-size:1.1em;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+
+	
+}
 }
 
 
@@ -743,14 +811,15 @@ a:hover {
 @media only screen and (max-width: 800px) { p {
     display: block;
     font-size: 1.20em;
-    line-height: 1em;
+   
 }
 }
 
 @media only screen and (max-width: 800px) { #box p {
     display: block;
-    font-size: 1.20em;
-    line-height: 1em;
+    font-size: 0.7em;
+    line-height: 0.8em;
+
 }
 }
 
@@ -768,3 +837,23 @@ a:hover {
 .home-subtitle {
 	font-size:15px;
 }
+.home-title {
+	font-size:1.4em;
+	font-family:'Montserrat', sans-serif;
+	line-height:0.8em;
+	font-weight: 800;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+}
+
+.home-title:hover{
+	font-size:1.4em;
+	font-family:'Montserrat', sans-serif;
+	line-height:0.8em;
+	color:white;
+	font-weight: 800;
+	font-variant-caps: all-small-caps;
+	overflow-wrap: break-word;
+}
+
+
