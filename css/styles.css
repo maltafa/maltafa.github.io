@@ -692,7 +692,7 @@ button .homepagebtn {
     border-radius: 10px;
     color:grey;
 	font-variant-caps: all-small-caps;
-    box-shadow: 1px 1px 30px 0.2px #c3c2c3;
+    
     margin: 25px;
 	min-height: 250px;
 	text-decoration: none;
@@ -729,6 +729,7 @@ a:hover {
 	background-color:#ce0b10;
   color: white;
 	text-decoration: none;
+	box-shadow: 1px 1px 30px 0.3px #c3c2c3;
 }
 
 #box p {
