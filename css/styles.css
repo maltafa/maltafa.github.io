@@ -703,9 +703,10 @@ button .homepagebtn {
     font-family:montserrat;
 	font-weight: 900;
 	background-color:white;
+	BORDER:0px;
 	border-style: solid;
 	border-color: darkgrey;
-	border-width:thin;
+
     padding-top: 60px;
 	padding-bottom: 30px;
 	padding-left:15px;
