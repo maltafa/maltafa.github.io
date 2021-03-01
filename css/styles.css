@@ -166,12 +166,13 @@ img { border: 0; max-width: 100%; }
 }
 #stickynav #nav li a:hover { 
   text-decoration: none;
-  background: #acacac;
+  background: #2d2d2d;
 }
 
 #stickynav #nav li a.nav-active {
   color: #000;
 }
+
 
 
 .section {
@@ -535,9 +536,6 @@ hr {
   display: block
 }
 
-#myUL li a:hover:not(.header) {
-  background-color: #eee;
-}
 
 #myUL li h4 a {
 	font-family:'Montserrat', sans-serif;
@@ -550,6 +548,19 @@ hr {
   color: white;
   display: block;
 }
+
+#myUL li h4 a:hover {
+	font-family:'Montserrat', sans-serif;
+  border: 1px solid #ddd;
+  margin-top: -1px;
+  background-color: #2b2b2b;
+  padding: 8px;
+  text-decoration: none;
+  font-size: 16px;
+  color: white;
+  display: block;
+}
+
 
 
 @media only screen and (max-width: 1081px) {
@@ -735,7 +746,7 @@ a:hover {
     font-family:'Montserrat', sans-serif;
 	line-height:0.7em;
 	font-weight: 800;
-	font-size:1.6em;
+	font-size:1.3em;
 	font-variant-caps: all-small-caps;
 	overflow-wrap: break-word;
 }
@@ -744,7 +755,7 @@ a:hover {
     font-family:'Montserrat', sans-serif;
 	line-height:0.7em;
 	font-weight: 800;
-	font-size:1.6em;
+	font-size:1.3em;
 	letter-spacing: 0px;
 	font-variant-caps: all-small-caps;
 	overflow-wrap: break-word;
