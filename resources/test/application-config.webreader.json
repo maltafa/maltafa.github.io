@@ -1,0 +1,27 @@
+{
+   "appconfig" : {},
+   "duration" : "10",
+   "issues" : [
+      {
+         "appleId" : "",
+         "bundle" : "20211031T214050Z",
+         "bundleSize" : 1,
+         "description" : "Html5",
+         "id" : "urn:uuid:quark:html5:Malta-Slovenia:publication",
+         "isFree" : true,
+         "lastPublishedDate" : "2021-10-31T21:41:27Z",
+         "media:content" : [],
+         "media:thumbnail" : [],
+         "minimumAppVersion" : "1.0.0",
+         "previews" : {},
+         "publishedDate" : "2021-10-31T21:41:27Z",
+         "subtitle" : "Html5",
+         "tabletIssuePath" : "Html5",
+         "thumbnails" : {},
+         "title" : "Malta-Slovenia"
+      }
+   ],
+   "name" : "Web Reader",
+   "published" : "2021-10-31T21:41:27Z",
+   "version" : "1.0"
+}

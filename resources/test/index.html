@@ -1,0 +1,49 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><base href="./"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/><!-- See https://goo.gl/OOhYW5 --><link rel="manifest" href="manifest.json"><!-- See https://goo.gl/qRE0vM --><meta name="theme-color" content="#3f51b5"><!-- Add to homescreen for Chrome on Android. Fallback for manifest.json --><meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="QuarkXPress"><!-- Add to homescreen for Safari on iOS --><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="QuarkXPress"><!-- Most content is shared to Facebook as a URL, 
+      so it's important that you mark up your website with Open Graph tags to take control over how your content appears on Facebook. 
+      Follow this link for more details: https://developers.facebook.com/docs/sharing/webmasters --><!-- The title of your article without any branding such as your site name. 
+    <meta property="og:title" content="" /> --><!-- A brief description of the content, usually between 2 and 4 sentences. 
+      This will displayed below the title of the post on Facebook. 
+    <meta property="og:description" content="" /> --><!-- The URL of the image that appears when someone shares the content to Facebook. 
+      Use images that are at least 1200 x 630 pixels for the best display on high resolution devices. 
+      At the minimum, you should use images that are 600 x 315 pixels to display link page posts with larger images. 
+      Images can be up to 8MB in size. https://developers.facebook.com/docs/sharing/best-practices#images 
+    <meta property="og:image" content="" /> --><!-- Homescreen icons --><link rel="apple-touch-icon" href="images/manifest/apple-touch-icon.png"><link rel="apple-touch-icon" sizes="76x76" href="images/manifest/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="120x120" href="images/manifest/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="images/manifest/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="images/manifest/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="167x167" href="images/manifest/apple-touch-icon-167x167.png"><link rel="apple-touch-icon" sizes="180x180" href="images/manifest/apple-touch-icon-180x180.png"><link rel="apple-touch-icon" sizes="192x192" href="images/manifest/apple-touch-icon-192x192.png"><link rel="apple-touch-icon" sizes="512x512" href="images/manifest/apple-touch-icon-512x512.png"><!-- Tile icon for Windows 8 (144x144 + tile color) --><meta name="msapplication-TileImage" content="images/manifest/apple-touch-icon-144x144.png"><meta name="msapplication-TileColor" content="#3f51b5"><meta name="msapplication-tap-highlight" content="no"><link rel="icon" type="image/x-icon" href="favicon.png"><style>body {
+        margin: 0;
+        padding: 0;
+        color: #333333;
+        font-family: AvenirLTStd-Medium, Arial, Verdana, Sans-Serif;
+        line-height: 1.5;
+        background-color: #fff;
+        -webkit-font-smoothing: antialiased;
+      }</style><link href="styles.a2b6264eca008ce93278.bundle.css" rel="stylesheet"/></head><body><noscript><div style="width: 100%;
+              position: fixed;
+              top: 0;
+              overflow: hidden;
+              background-color: #b4b4b4;
+              color: #f4f4f4;
+              height: 36px;
+              display: block;
+              font-size: 16px;
+              line-height: 36px;
+              text-align: center;">JavaScript is not enabled.</div></noscript><qrk-root></qrk-root><script>VERSION="2.1.3-master-631af11-20200824T190649Z-58920"</script>
+<script>function triggerServiceWorkerEvent() {
+        window.serviceWorkerEventTriggered = true;
+        window.dispatchEvent(new Event('serviceWorkerEvent'));
+      }
+
+      function isSafari() {
+        var ua = window.navigator.userAgent;
+        return /Safari/.test(ua) && !(/Chrome/.test(ua))
+          && !navigator.userAgent.match('CriOS') && !(/FxiOS/.test(ua))
+      }
+
+      if (!isSafari() && window.location.hostname !== 'localhost' && 'serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js').then(function (registration) {
+          triggerServiceWorkerEvent();
+        }).catch(function (err) {
+          triggerServiceWorkerEvent();
+          console.log('Service Worker registration failed: ', err);
+        });
+      } else {
+        triggerServiceWorkerEvent();
+      }</script><link rel="stylesheet" href="css/ui-config.css"><script type="text/javascript" src="inline.ba0d11046b413b0afd41.bundle.js"></script><script type="text/javascript" src="polyfills.08e07fea96a870d15d65.bundle.js"></script><script type="text/javascript" src="scripts.d17e1ae85f1007a59a7b.bundle.js"></script><script type="text/javascript" src="vendor.e8fb7fd321512a6b7413.bundle.js"></script><script type="text/javascript" src="main.30773ede266b31f97f4d.bundle.js"></script></body></html>

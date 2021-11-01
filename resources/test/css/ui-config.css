@@ -1,0 +1,28 @@
+:root {
+  /* Sets the background color of application */
+  --app-background: #333;
+
+  /* Sets the background color of store */
+  --store-background: #fff;
+
+  /* Sets the background color of toolbar item */
+  --toolbarItem-background-color: #000;
+  --toolbarItem-background-color-on-hover: #00aeef;
+
+  /* Sets the svg color of toolbar item */
+  --toolbar-svg-color: #a3a3a3;
+  --toolbar-svg-hover-color: #fff;
+
+  /* Sets the color of dragging handle of scrubber bar */
+  --scrubber-thumb-color: #a3a3a3;
+  --scrubber-thumb-hover-color: #fff;
+  --scrubber-page-number-color: #a3a3a3;
+
+  /* Sets the background color of timeline which shows thumbnails */
+  --timeline-background-color: rgba(66, 65, 66, 0.88);
+  --timeline-thumbnail-border-color: #00aeef;
+  --timeline-text-color: #fff;
+
+  /* Sets the background color of toc banner */
+  --toc-banner-color: #000;
+}

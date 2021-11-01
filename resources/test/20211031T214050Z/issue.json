@@ -1,0 +1,128 @@
+{
+   "contents" : [
+      {
+         "abstract" : null,
+         "author" : null,
+         "id" : "Malta-Slovenia",
+         "series" : null,
+         "socialComment" : null,
+         "socialImageUrl" : null,
+         "socialUrl" : null,
+         "tags" : null,
+         "title" : "",
+         "titleHtml" : "Malta-Slovenia",
+         "type" : "article"
+      }
+   ],
+   "id" : "urn:uuid:quark:html5:Malta-Slovenia:publication",
+   "media" : null,
+   "publishedDate" : "2021-10-31T21:41:27Z",
+   "subtitle" : null,
+   "title" : "Malta-Slovenia",
+   "variants" : [
+      {
+         "fontSize" : "16",
+         "height" : "1024",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Slovenia",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "1",
+               "preview1024" : "article/Tablet_(V)/assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait1_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Slovenia",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "2",
+               "preview1024" : "article/Tablet_(V)/assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait2_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Slovenia",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "3",
+               "preview1024" : "article/Tablet_(V)/assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait3_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Slovenia",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "4",
+               "preview1024" : "article/Tablet_(V)/assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait4_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait4.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Slovenia",
+                     "pageRef" : "5"
+                  }
+               ],
+               "id" : "5",
+               "preview1024" : "article/Tablet_(V)/assets/portrait5_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait5_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait5.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Slovenia",
+                     "pageRef" : "6"
+                  }
+               ],
+               "id" : "6",
+               "preview1024" : "article/Tablet_(V)/assets/portrait6_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait6_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait6.html"
+            }
+         ],
+         "width" : "768"
+      }
+   ]
+}
