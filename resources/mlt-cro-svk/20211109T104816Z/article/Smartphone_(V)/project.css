@@ -1,0 +1,363 @@
+
+@font-face{
+    font-family:'AntennaExtraCond ExtraLight';
+    src:url('../assets/fonts/AntennaExtraCond-ExtraLight.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Fira Sans Light';
+    src:url('../assets/fonts/FiraSans-Light.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaCond Light';
+    src:url('../assets/fonts/AntennaCond-Light.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Fira Sans Four';
+    src:url('../assets/fonts/FiraSans-Bold.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaCond Medium';
+    src:url('../assets/fonts/AntennaCond-Medium.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Montserrat SemiBold';
+    src:url('../assets/fonts/Montserrat-SemiBold.ttf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Montserrat ExtraBold';
+    src:url('../assets/fonts/Montserrat-ExtraBold.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaExtraCond ExtraLight';
+    src:url('../assets/fonts/AntennaExtraCond-Bold.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Antenna';
+    src:url('../assets/fonts/Antenna-Regular.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaCond Light';
+    src:url('../assets/fonts/AntennaCond-Bold.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Archer Light';
+    src:url('../assets/fonts/Archer-Bold.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Archer Medium';
+    src:url('../assets/fonts/Archer-Medium.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaCond';
+    src:url('../assets/fonts/AntennaCond-Regular.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaExtraCond Light';
+    src:url('../assets/fonts/AntennaExtraCond-Light.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Fira Sans Book';
+    src:url('../assets/fonts/FiraSans-Book.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaCond';
+    src:url('../assets/fonts/AntennaCond-Black.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Fira Sans';
+    src:url('../assets/fonts/FiraSans-Regular.otf');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'AntennaExtraCond BlackItalic';
+    src:url('../assets/fonts/AntennaExtraCond-Black.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Lucida Grande';
+    src:url('../assets/fonts/LucidaGrande.ttc');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Fira Sans ExtraBold';
+    src:url('../assets/fonts/FiraSans-ExtraBold.otf');
+    font-weight:bold;
+    font-style:normal;
+}
+@font-face{
+    font-family:'Montserrat Regular';
+    src:url('../assets/fonts/Montserrat-Bold.ttf');
+    font-weight:bold;
+    font-style:normal;
+}
+
+.qxpASDImage{
+    position:absolute;
+    top:0px;
+    left:0px;
+}.char-Normal-Local-177 {
+    font-family:'Montserrat Regular','Montserrat-Bold';
+    font-size:196.977px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.01em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-169 {
+    font-family:'Montserrat Regular','Montserrat-Bold';
+    font-size:236.923px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.015em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-170 {
+    font-family:'Montserrat Regular','Montserrat-Bold';
+    font-size:210.598px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.015em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-176 {
+    font-family:'Montserrat SemiBold','Montserrat-SemiBold';
+    font-size:157.579px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.01em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-173 {
+    font-family:'Montserrat Regular','Montserrat-Bold';
+    font-size:236.919px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    transform-origin:left;
+    -webkit-transform-origin:left;
+    transform:scaleX(1);
+    -webkit-transform:scaleX(1);
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.015em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-172 {
+    font-family:'Montserrat Regular','Montserrat-Bold';
+    font-size:210.594px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    transform-origin:left;
+    -webkit-transform-origin:left;
+    transform:scaleX(1);
+    -webkit-transform:scaleX(1);
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.015em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-171 {
+    font-family:'Montserrat SemiBold','Montserrat-SemiBold';
+    font-size:157.576px;
+    font-weight:bold;
+    text-decoration:none;
+    text-transform:uppercase;
+    transform-origin:left;
+    -webkit-transform-origin:left;
+    transform:scaleX(1);
+    -webkit-transform:scaleX(1);
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.01em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-174 {
+    font-family:'Montserrat SemiBold','Montserrat-SemiBold';
+    font-size:156.837px;
+    font-weight:bold;
+    text-decoration:none;
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.01em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.char-Normal-Local-175 {
+    font-family:'Montserrat ExtraBold','Montserrat-ExtraBold','Montserrat';
+    font-size:156.837px;
+    font-weight:bold;
+    text-decoration:none;
+    -webkit-font-kerning:Normal;
+    font-kerning:Normal;
+    -webkit-font-variant-ligatures:no-common-ligatures;
+    font-variant-ligatures:no-common-ligatures;
+    -webkit-font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    font-feature-settings:"rlig" 0, "liga" 0, "clig" 0, "calt" 0, "locl" 0, "ccmp" 0, "mark" 0, "mkmk" 0;
+    color:white;
+    letter-spacing:0.01em;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+.QxpSVG {
+    position:inherit;
+}
+.QxpImage {
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.QxpFlexImage {
+    width:100%;
+    height:100%;
+    vertical-align:top;
+}
+.QxpImgKeepAR {
+    width:100%;
+    height:auto;
+    vertical-align:top;
+}
+.QxpAnchImage {
+    position:static;
+    top:0px;
+    left:0px;
+}
+.QxpSuperscript {
+    line-height:1;
+    font-size:0.6em;
+    vertical-align:baseline;
+}
+.QxpSubscript {
+    line-height:1;
+    font-size:1em;
+    vertical-align:baseline;
+}
+.QxpTextBox {
+    position:absolute;
+    left:0px;
+    top:0px;
+    white-space:nowrap;
+    width:100%;
+    height:100%;
+    line-height:1;
+    transform-origin:0% 0%;
+    -webkit-transform-origin:0% 0%;
+    transform:scale(0.05, 0.05);
+    -webkit-transform:scale(0.05, 0.05);
+}
+.QxpVertTextBox {
+    position:absolute;
+    white-space:nowrap;
+    width:100%;
+    height:100%;
+    top:0px;
+    right:0px;
+    line-height:1;
+    transform-origin:100% 0%;
+    -webkit-transform-origin:100% 0%;
+    transform:scale(0.05, 0.05);
+    -webkit-transform:scale(0.05, 0.05);
+}
