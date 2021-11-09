@@ -1,0 +1,765 @@
+{
+   "contents" : [
+      {
+         "abstract" : null,
+         "author" : null,
+         "id" : "Malta-Croatia-Slovakia",
+         "series" : null,
+         "socialComment" : null,
+         "socialImageUrl" : null,
+         "socialUrl" : null,
+         "tags" : null,
+         "title" : "",
+         "titleHtml" : "Malta-Croatia-Slovakia",
+         "type" : "article"
+      }
+   ],
+   "id" : "urn:uuid:quark:html5:Malta-Croatia-Slovakia:publication",
+   "media" : [
+      {
+         "item" : {
+            "assets" : [
+               {
+                  "mime" : "video/mp4",
+                  "url" : "article/assets/Devis_Mangia_low.mp4"
+               }
+            ],
+            "content" : [ "Malta-Croatia-Slovakia" ],
+            "poster" : "article/Tablet_(V)/assets/poster.png",
+            "title" : "Devis Mangia Video",
+            "type" : "video"
+         }
+      },
+      {
+         "item" : {
+            "assets" : [
+               {
+                  "mime" : "video/mp4",
+                  "url" : "article/assets/ALL_8_GOALS_SO_FAR_MALTA_low.mp4"
+               }
+            ],
+            "content" : [ "Malta-Croatia-Slovakia" ],
+            "poster" : "article/Tablet_(V)/assets/poster_qx01.png",
+            "title" : "Goals Video",
+            "type" : "video"
+         }
+      },
+      {
+         "item" : {
+            "assets" : [
+               {
+                  "mime" : "video/mp4",
+                  "url" : "article/assets/Malta-Croatia_2005.mp4"
+               }
+            ],
+            "content" : [ "Malta-Croatia-Slovakia" ],
+            "poster" : "article/Tablet_(V)/assets/poster_qx02.png",
+            "title" : "CELEBRATIONS 2005 Video",
+            "type" : "video"
+         }
+      },
+      {
+         "item" : {
+            "assets" : [
+               {
+                  "mime" : "video/mp4",
+                  "url" : "article/assets/Malta-Croatia_2005.mp4"
+               }
+            ],
+            "content" : [ "Malta-Croatia-Slovakia" ],
+            "poster" : "article/Smartphone_(V)/assets/poster_qx02.png",
+            "title" : "CELEBRATIONS 2005 Video",
+            "type" : "video"
+         }
+      },
+      {
+         "item" : {
+            "assets" : [
+               {
+                  "mime" : "video/mp4",
+                  "url" : "article/assets/Devis_Mangia_low.mp4"
+               }
+            ],
+            "content" : [ "Malta-Croatia-Slovakia" ],
+            "poster" : "article/Smartphone_(V)/assets/poster.png",
+            "title" : "Devis Mangia Video",
+            "type" : "video"
+         }
+      },
+      {
+         "item" : {
+            "assets" : [
+               {
+                  "mime" : "video/mp4",
+                  "url" : "article/assets/ALL_8_GOALS_SO_FAR_MALTA_low.mp4"
+               }
+            ],
+            "content" : [ "Malta-Croatia-Slovakia" ],
+            "poster" : "article/Smartphone_(V)/assets/poster_qx01.png",
+            "title" : "Goals Video",
+            "type" : "video"
+         }
+      }
+   ],
+   "publishedDate" : "2021-11-08T15:59:08Z",
+   "subtitle" : null,
+   "title" : "Malta-Croatia-Slovakia",
+   "variants" : [
+      {
+         "fontSize" : "16",
+         "height" : "1024",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "1",
+               "preview1024" : "article/Tablet_(V)/assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait1_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "2",
+               "preview1024" : "article/Tablet_(V)/assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait2_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "3",
+               "preview1024" : "article/Tablet_(V)/assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait3_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "4",
+               "preview1024" : "article/Tablet_(V)/assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait4_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait4.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "5"
+                  }
+               ],
+               "id" : "5",
+               "preview1024" : "article/Tablet_(V)/assets/portrait5_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait5_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait5.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "6"
+                  }
+               ],
+               "id" : "6",
+               "preview1024" : "article/Tablet_(V)/assets/portrait6_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait6_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait6.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "7"
+                  }
+               ],
+               "id" : "7",
+               "preview1024" : "article/Tablet_(V)/assets/portrait7_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait7_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait7.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "8"
+                  }
+               ],
+               "id" : "8",
+               "preview1024" : "article/Tablet_(V)/assets/portrait8_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait8_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait8.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "9"
+                  }
+               ],
+               "id" : "9",
+               "preview1024" : "article/Tablet_(V)/assets/portrait9_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait9_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait9.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "10"
+                  }
+               ],
+               "id" : "10",
+               "preview1024" : "article/Tablet_(V)/assets/portrait10_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait10_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait10.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "11"
+                  }
+               ],
+               "id" : "11",
+               "preview1024" : "article/Tablet_(V)/assets/portrait11_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait11_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait11.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "12"
+                  }
+               ],
+               "id" : "12",
+               "preview1024" : "article/Tablet_(V)/assets/portrait12_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait12_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait12.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "13"
+                  }
+               ],
+               "id" : "13",
+               "preview1024" : "article/Tablet_(V)/assets/portrait13_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait13_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait13.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "14"
+                  }
+               ],
+               "id" : "14",
+               "preview1024" : "article/Tablet_(V)/assets/portrait14_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait14_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait14.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "15"
+                  }
+               ],
+               "id" : "15",
+               "preview1024" : "article/Tablet_(V)/assets/portrait15_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait15_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait15.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "16"
+                  }
+               ],
+               "id" : "16",
+               "preview1024" : "article/Tablet_(V)/assets/portrait16_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait16_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait16.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "17"
+                  }
+               ],
+               "id" : "17",
+               "preview1024" : "article/Tablet_(V)/assets/portrait17_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait17_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait17.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "18"
+                  }
+               ],
+               "id" : "18",
+               "preview1024" : "article/Tablet_(V)/assets/portrait18_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait18_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait18.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "19"
+                  }
+               ],
+               "id" : "19",
+               "preview1024" : "article/Tablet_(V)/assets/portrait19_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait19_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait19.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "20"
+                  }
+               ],
+               "id" : "20",
+               "preview1024" : "article/Tablet_(V)/assets/portrait20_preview.jpeg",
+               "properties" : {
+                  "height" : "1024",
+                  "width" : "768"
+               },
+               "thumbnail" : "article/Tablet_(V)/assets/portrait20_preview.jpeg",
+               "url" : "article/Tablet_(V)/portrait20.html"
+            }
+         ],
+         "width" : "768"
+      },
+      {
+         "fontSize" : "16",
+         "height" : "736",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "21",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait1_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "22",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait2_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "23",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait3_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "24",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait4_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait4.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "5"
+                  }
+               ],
+               "id" : "25",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait5_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait5_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait5.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "6"
+                  }
+               ],
+               "id" : "26",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait6_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait6_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait6.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "7"
+                  }
+               ],
+               "id" : "27",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait7_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait7_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait7.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "8"
+                  }
+               ],
+               "id" : "28",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait8_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait8_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait8.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "9"
+                  }
+               ],
+               "id" : "29",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait9_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait9_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait9.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "10"
+                  }
+               ],
+               "id" : "30",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait10_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait10_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait10.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "11"
+                  }
+               ],
+               "id" : "31",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait11_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait11_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait11.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "12"
+                  }
+               ],
+               "id" : "32",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait12_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait12_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait12.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "13"
+                  }
+               ],
+               "id" : "33",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait13_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait13_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait13.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "14"
+                  }
+               ],
+               "id" : "34",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait14_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait14_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait14.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "15"
+                  }
+               ],
+               "id" : "35",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait15_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait15_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait15.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "16"
+                  }
+               ],
+               "id" : "36",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait16_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait16_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait16.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "17"
+                  }
+               ],
+               "id" : "37",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait17_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait17_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait17.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "18"
+                  }
+               ],
+               "id" : "38",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait18_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait18_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait18.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "19"
+                  }
+               ],
+               "id" : "39",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait19_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait19_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait19.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Malta-Croatia-Slovakia",
+                     "pageRef" : "20"
+                  }
+               ],
+               "id" : "40",
+               "preview1024" : "article/Smartphone_(V)/assets/portrait20_preview.jpeg",
+               "properties" : {
+                  "height" : "736",
+                  "width" : "414"
+               },
+               "thumbnail" : "article/Smartphone_(V)/assets/portrait20_preview.jpeg",
+               "url" : "article/Smartphone_(V)/portrait20.html"
+            }
+         ],
+         "width" : "414"
+      }
+   ]
+}
