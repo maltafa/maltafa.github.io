@@ -1,0 +1,164 @@
+/**
+ * styles.css (v1.0)
+ *
+ * Defines default styles.
+ *
+ * (c) 1986 - 2018 Quark Software Inc.
+ * All rights reserved.
+ *
+ */
+
+.qx-img-Fit {
+    object-fit: contain;
+    object-position: center center;
+    width: 100%;
+    height: 100%;
+}
+
+.qx-img-Fill {
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+    height: 100%;
+}
+
+.qx-img-Stretch {
+    width: 100%;
+    height: 100%;
+}
+
+.qx-bg-Default {
+    background-repeat: no-repeat;
+}
+
+.qx-bg-Fit {
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.qx-bg-Fill {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.qx-bg-Stretch {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.qx-img {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+.qx-text-box {
+}
+
+.qx-img-box {
+    overflow: hidden;
+    line-height: 1px;
+}
+
+    .qx-img-box > img {
+        vertical-align: top;
+        position: relative;
+    }
+
+.qx-group-box {
+}
+
+.qx-flex-box {
+    display: flex;
+}
+
+.qx-table {
+}
+
+.qx-parent-width {
+    width: 100%
+}
+
+.qx-parent-height {
+    height: 100%
+}
+
+.qx-box-bg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.qx-box-bgimage {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.qx-box-border {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    pointer-events: none;
+}
+
+.qx-box-content {
+    position: relative;
+    box-sizing: border-box;
+    column-span: all;
+    column-count: inherit;
+    column-gap: inherit;
+}
+
+.qx-AR-div {
+    position: relative !important;
+    visibility: hidden;
+}
+
+.qx-IFrame {
+}
+
+.qx-IFrame > iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.qx-default-video {
+}
+
+    .qx-default-video video {
+        object-fit: contain;
+    }
+
+.qx-bg-video {
+    overflow: hidden;
+}
+
+    .qx-bg-video video {
+        object-fit: cover;
+    }
+
+.qx-default-div {
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    position:absolute;
+}
+
+[data-widget='BUTTON'] {
+    cursor: pointer;
+}
+

@@ -4,17 +4,17 @@
    "issues" : [
       {
          "appleId" : "",
-         "bundle" : "20211109T104816Z",
+         "bundle" : "20211110T100306Z",
          "bundleSize" : 1,
          "description" : "Html5",
          "id" : "urn:uuid:quark:html5:Malta-Croatia-Slovakia:publication",
          "isFree" : true,
-         "lastPublishedDate" : "2021-11-09T10:50:14Z",
+         "lastPublishedDate" : "2021-11-10T10:05:20Z",
          "media:content" : [],
          "media:thumbnail" : [],
          "minimumAppVersion" : "1.0.0",
          "previews" : {},
-         "publishedDate" : "2021-11-09T10:50:14Z",
+         "publishedDate" : "2021-11-10T10:05:20Z",
          "subtitle" : "Html5",
          "tabletIssuePath" : "Html5",
          "thumbnails" : {},
@@ -22,6 +22,6 @@
       }
    ],
    "name" : "Web Reader",
-   "published" : "2021-11-09T10:50:14Z",
+   "published" : "2021-11-10T10:05:20Z",
    "version" : "1.0"
 }
